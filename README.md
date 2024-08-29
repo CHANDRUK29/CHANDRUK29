@@ -4,7 +4,7 @@
   Hello! I am Chandru K, a dedicated and passionate Full Stack Web Developer with a diverse skill set that spans both frontend and backend development. With a strong foundation in HTML, CSS, and JavaScript, I am adept at creating intuitive and responsive user interfaces that provide an excellent user experience.<br/><br/> My proficiency in React.js allows me to build dynamic and interactive web applications, bringing static designs to life. <br/><br/>On the backend, I leverage the power of Node.js and Express.js to develop robust and scalable server-side applications. My experience with Java further enhances my ability to create efficient and high-performance systems. <br/><br/> Database management is another area of my expertise, with hands-on experience in both MongoDB and PostgreSQL. This enables me to handle complex data interactions and ensure seamless integration between the frontend and backend.<br/><br/> In addition to my technical skills,Version control is crucial in the development process, and my proficiency with Git and GitHub ensures that I can collaborate effectively with other developers, maintain clean codebases, and manage projects efficiently.<br/><br/> I am driven by a passion for creating scalable, user-centric web solutions that not only meet the requirements but also exceed user expectations. My projects reflect my commitment to quality, performance, and user experience.<br/><br/> I invite you to explore my GitHub repository, where you will find a collection of my work, showcasing my ability to turn ideas into impactful digital experiences. Thank you for visiting my GitHub profile. I look forward to connecting with fellow developers, learning new technologies, and contributing to exciting projects.</h4>
 <!-- <img align="center" alt="coding" width="400" src="https://www.21kschool.com/ng/wp-content/uploads/sites/28/2023/07/Coding.png"> -->
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chandruk29&label=Profile%20views&color=0e75b6&style=flat" alt="chandruk29" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chandruk29&label=Profile%20views&color=brightgreen&style="flat" alt="chandruk29" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandruk29&theme=dracula&row=2&column=4&margin-w=15&margin-h=15" alt="chandruk29" /></a> </p>
 
@@ -36,5 +36,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandruk29&" alt="chandruk29" /></p>
 
+
 # 📊 Leetcode Stats:
 ![](https://leetcard.jacoblin.cool/Chandruk29?theme=dark)
+
