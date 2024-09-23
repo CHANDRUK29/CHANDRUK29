@@ -1,4 +1,5 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQFFqVtddkM43g/profile-displaybackgroundimage-shrink_350_1400/0/1722741860819?e=1728518400&v=beta&t=M4w_lSb7jCu9GZHxgNceNjLYnVrhui_Vf9eIn9yiCs0)](https://github.com/CHANDRUK29)
+
 <h1 align="center">Hi 👋, I'm Chandru K</h1>
 <h4 align="">
   Hello! I am Chandru K, a dedicated and passionate Full Stack Web Developer with a diverse skill set that spans both frontend and backend development. With a strong foundation in HTML, CSS, and JavaScript, I am adept at creating intuitive and responsive user interfaces that provide an excellent user experience.<br/><br/> My proficiency in React.js allows me to build dynamic and interactive web applications, bringing static designs to life. <br/><br/>On the backend, I leverage the power of Node.js and Express.js to develop robust and scalable server-side applications. My experience with Java further enhances my ability to create efficient and high-performance systems. <br/><br/> Database management is another area of my expertise, with hands-on experience in both MongoDB and PostgreSQL. This enables me to handle complex data interactions and ensure seamless integration between the frontend and backend.<br/><br/> In addition to my technical skills,Version control is crucial in the development process, and my proficiency with Git and GitHub ensures that I can collaborate effectively with other developers, maintain clean codebases, and manage projects efficiently.<br/><br/> I am driven by a passion for creating scalable, user-centric web solutions that not only meet the requirements but also exceed user expectations. My projects reflect my commitment to quality, performance, and user experience.<br/><br/> I invite you to explore my GitHub repository, where you will find a collection of my work, showcasing my ability to turn ideas into impactful digital experiences. Thank you for visiting my GitHub profile. I look forward to connecting with fellow developers, learning new technologies, and contributing to exciting projects.</h4>
@@ -40,7 +41,6 @@
 
 # 📊 Leetcode Stats:
 ![](https://leetcard.jacoblin.cool/Chandruk29?theme=dark)
-
 
 <!--<a href="https://app.daily.dev/chandruk"><img src="https://api.daily.dev/devcards/v2/RXtXOF6r4x8xg02LIoZN2.png?type=wide&r=rf2" width="652" alt="Chandru K's Dev Card"/></a> -->
 
