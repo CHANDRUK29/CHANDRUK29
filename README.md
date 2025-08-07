@@ -41,9 +41,18 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chandruk29&bg_color=141321&color=a3f5ef&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<h2 align="center">📊 Leetcode Stats:</h2>
 
-# 📊 Leetcode Stats:
-![](https://leetcard.jacoblin.cool/Chandruk29?theme=dark)
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Chandruk29?theme=dark" alt="Leetcode Stats">
+</div>
 
-<!--<a href="https://app.daily.dev/chandruk"><img src="https://api.daily.dev/devcards/v2/RXtXOF6r4x8xg02LIoZN2.png?type=wide&r=rf2" width="652" alt="Chandru K's Dev Card"/></a> -->
+<br/>
+
+<div align="center">
+  <a href="https://app.daily.dev/chandruk">
+    <img src="https://api.daily.dev/devcards/v2/RXtXOF6r4x8xg02LIoZN2.png?type=wide&r=rf2" width="652" alt="Chandru K's Dev Card"/>
+  </a>
+</div>
+
 
